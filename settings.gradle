@@ -1,0 +1,3 @@
+rootProject.name = "CASETA_MODULO_WIFI2"
+include ':app'
+include ':OpenCV'
